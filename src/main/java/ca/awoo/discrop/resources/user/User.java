@@ -1,5 +1,6 @@
-package ca.awoo.discrop;
+package ca.awoo.discrop.resources.user;
 
+import ca.awoo.discrop.Snowflake;
 import ca.awoo.fwoabl.Optional;
 
 public class User {

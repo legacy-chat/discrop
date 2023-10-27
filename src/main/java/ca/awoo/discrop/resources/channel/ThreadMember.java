@@ -1,7 +1,8 @@
-package ca.awoo.discrop;
+package ca.awoo.discrop.resources.channel;
 
 import java.util.Date;
 
+import ca.awoo.discrop.Snowflake;
 import ca.awoo.fwoabl.Optional;
 
 public class ThreadMember {
