@@ -3,6 +3,7 @@ package ca.awoo.discrop.resources.channel;
 import java.util.Date;
 
 import ca.awoo.discrop.Snowflake;
+import ca.awoo.discrop.resources.permissions.Role;
 import ca.awoo.discrop.resources.user.User;
 import ca.awoo.fwoabl.Optional;
 
