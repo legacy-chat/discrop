@@ -34,7 +34,7 @@ public class Channel {
     private Optional<String> permissions;
     private Optional<Integer> flags;
     private Optional<Integer> total_messages_sent;
-    private Optional<Tag[]> avaliable_tags;
+    private Optional<ForumTag[]> avaliable_tags;
     private Optional<Snowflake[]> applied_tags;
     private Optional<DefaultReaction> default_reaction_emoji;
     private Optional<Integer> default_thread_rate_limit_per_user;
