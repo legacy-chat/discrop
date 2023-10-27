@@ -36,7 +36,7 @@ public class Message {
     // TODO: bot stuff private Optional<MessageInteraction> interaction;
     private Optional<Channel> thread;
     //TODO: components
-    private Optional<StickerItem[]> sticker_items;
+    //TODO: stickers private Optional<StickerItem[]> sticker_items;
     private Optional<Integer> position;
     //TODO: role_subscription_data
     //TODO: resolved

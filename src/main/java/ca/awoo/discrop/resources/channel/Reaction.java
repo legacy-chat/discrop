@@ -5,7 +5,7 @@ public class Reaction {
     private ReactionCount count_details;
     private boolean me;
     private boolean me_burst;
-    private Emoji emoji;
+    // TODO: emoji private Emoji emoji;
     // TODO: burst colours
 
     public static class ReactionCount {
